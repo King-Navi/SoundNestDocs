@@ -1,57 +1,58 @@
-🎶 SoundNestDocs
+# SoundNestDocs
 
-🚀 Enterprise de SoundNest | La documentación oficial y centralizada para todos tus archivos .eapx de SoundNest.
+> Documentación oficial y centralizada para proyectos SoundNest (.eapx)
 
-🏆 ¿Por qué SoundNestDocs?
+---
 
-SoundNestDocs es el repositorio definitivo para gestionar, versionar y compartir todos los proyectos de SoundNest en formato .eapx. Diseñado para profesionales del audio y desarrolladores, este repositorio te permite:
+## Descripción
 
-📂 Mantener tu documentación organizada
+SoundNestDocs es el repositorio centralizado para organizar, versionar y compartir archivos de proyecto `.eapx` de SoundNest. Facilita la colaboración, seguimiento de cambios y acceso rápido a la documentación.
 
-🔄 Control de versiones completo con Git
+---
 
-🌐 Colaboración en equipo sin fricciones
+## Estructura del repositorio
 
-🚧 Historial claro de cambios y mejoras
-
-⚙️ Estructura del Repositorio
-
+```
 SoundNestDocs/
-├── SoundNest_<autor>.eapx     # Proyecto principal de SoundNest por autor
-├── docs/                     # Guías, tutoriales y referencias
-├── assets/                   # Imágenes, diagramas y recursos adicionales
-└── README.md                 # Este archivo de presentación
+├── SoundNest_<autor>.eapx    Proyecto principal
+├── docs/                    Guías y referencias
+├── assets/                  Imágenes y recursos
+└── README.md                Este archivo
+```
 
-🚀 Cómo empezar
+---
 
-Clona este repositorio:
+## Inicio rápido
 
-git clone https://github.com/unaay20/SoundNestDocs.git
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/unaay20/SoundNestDocs.git
+   ```
+2. Accede al directorio:
+   ```bash
+   cd SoundNestDocs
+   ```
+3. Abre tu proyecto `.eapx`:
+   ```bash
+   start SoundNest_<tu_nombre>.eapx
+   ```
 
-Navega al directorio del proyecto:
+---
 
-cd SoundNestDocs
+## Contribuciones
 
-Abre tu archivo .eapx favorito con SoundNest:
+1. Haz fork del repositorio.
+2. Crea una branch: `git checkout -b feature/nombre`.
+3. Haz commit: `git commit -m "feat: descripción"`.
+4. Envía un pull request.
 
-start SoundNest_<tu_nombre>.eapx
+Por favor, sigue el código de conducta y las convenciones de estilo.
 
-📋 Contribuciones
+---
 
-Las contribuciones son bienvenidas 🙌. Para contribuir:
+## Licencia
 
-Haz un fork del repositorio.
+Este proyecto está bajo la licencia MIT © 2025 SoundNest.
 
-Crea una nueva branch (git checkout -b feature/nombre-de-la-feature).
+---
 
-Realiza tus cambios y haz commit (git commit -m "feat: descripción corta").
-
-Envía un pull request.
-
-Por favor sigue el Código de Conducta y respeta las convenciones de estilo.
-
-📄 Licencia
-
-Este proyecto está bajo la licencia MIT License © 2025 SoundNest.
-
-"La música une ideas, y la documentación las hace eternas." 🎵
